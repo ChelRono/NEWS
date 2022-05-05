@@ -1,4 +1,4 @@
-#!/home/valarie/Pictures/Newslist/virtual/bin/python
+#!/home/valarie/Pictures/Newslist/virtual/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
